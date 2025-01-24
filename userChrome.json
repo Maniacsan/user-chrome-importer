@@ -1,0 +1,6 @@
+{
+  "repositories": {
+    "CompactExtensionsMenu": "https://raw.githubusercontent.com/Naezr/zen-browser-css/refs/heads/main/CompactExtensionsMenu/shy-unified-extensions.css",
+    "GradientEditor": "https://raw.githubusercontent.com/Naezr/zen-browser-css/refs/heads/main/GradientEditor/shy-gradient-editor.css"
+  }
+}
